@@ -47,7 +47,7 @@ permalink: /coursework/
 - **CHEM 2090:** Engineering General Chemistry
 - **MATH 1910:** Calculus for Engineers
 - **CS 1110:** Intro to Computing: Design & Development
-- **CLASS 1585:** FWS: The Fall of Rome
+- **CLASS 1585:** FWS: 
 - **PE 1104:** Swim Conditioning
 - **ENGRG 1050:** Engineering Seminar
 
