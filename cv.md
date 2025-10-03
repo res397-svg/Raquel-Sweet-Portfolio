@@ -29,8 +29,8 @@ permalink: /cv/
     <li>Fabricate prototype of eVTOL aircraft, including quadcopter rotor system, landing skids, and wiring system.</li>
     <li>Flight-test aircraft lifting 4 kg of external payload for the duration of ten five-minute hovers.</li>
     <li>Apply data from ANSYS and MATLAB to guide design decisions.</li>
-    <li>Develop models using SOLIDWORKS and Fusion 360 for aircraft design and to aid in analysis</li>
-    <li>Design and build a gear-driven hub system for rotating a Magnus Effect sphere at over 1,500 RPM, ensuring dynamic balance for smooth and stable operation</li>
+    <li>Develop models using SOLIDWORKS and Fusion 360 for aircraft design and to aid in analysis.</li>
+    <li>Design and build a gear-driven hub system for rotating a Magnus Effect sphere at over 1,500 RPM, ensuring dynamic balance for smooth and stable operation.</li>
   </ul>
 </div>
 
@@ -124,11 +124,11 @@ permalink: /cv/
 
 {% if site.baseurl %}
 <div class="resume-download">
-  <a href="{{ site.baseurl }}/assets/files/Raquel Sweet_Resume.PDF" class="download-button" download>Download Resume (PDF)</a>
+  <a href="{{ site.baseurl }}/assets/files/Raquel_Sweet_Resume.pdf" class="download-button" download>Download Resume (PDF)</a>
 </div>
 {% else %}
 <div class="resume-download">
-  <a href="/assets/files/Raquel Sweet_Resume.PDF" class="download-button" download>Download Resume (PDF)</a>
+  <a href="/assets/files/Raquel_Sweet_Resume.pdf" class="download-button" download>Download Resume (PDF)</a>
 </div>
 {% endif %}
 
