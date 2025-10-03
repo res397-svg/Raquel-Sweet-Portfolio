@@ -8,7 +8,7 @@ permalink: /
   <img src="{{ site.baseurl }}/assets/images/Headshot.jpg" alt="Ishan Roy" class="profile-image">
 </div>
 
-Hi, my name is Ishan!
+Hi, my name is Raquel!
 
 
 
