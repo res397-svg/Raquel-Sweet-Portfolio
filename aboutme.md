@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="image-wrapper">
-  <img src="{{ site.baseurl }}/assets/images/Headshot.jpg" alt="Ishan Roy" class="profile-image">
+  <img src="{{ site.baseurl }}/assets/images/Headshot.jpg" alt="Raquel Sweet" class="profile-image">
 </div>
 
 Hi, my name is Raquel!

@@ -4,13 +4,13 @@ title: Coursework
 permalink: /coursework/
 ---
 
-## Coming Up...
-
-- **MAE 3230:** Introductory Fluid Mechanics
+## Junior Year
+**Fall 2025**
+- **MAE 3230:** Intro Fluid Mechanics
 - **MAE 3270:** Mechanics of Engineering Materials
 - **MAE 3260:** System Dynamics
-- **MAE 3050:** Introduction to Aeronautics
-- **CLASS 2064:** Greek Mythology
+- **MAE 3050:** Intro to Aeronautics
+- **PE 1160:** Latin Dance
 
 ---
 
@@ -21,6 +21,7 @@ permalink: /coursework/
 - **MAE 2250:** Intro to Mechanical Design
 - **MAE 2030:** Dynamics
 - **MATH 2940:** Linear Algebra for Engineers
+- **AEM 2210:** Financial Accounting
 
 
 
@@ -28,8 +29,8 @@ permalink: /coursework/
 - **MATH 2930:** Differential Equations for Engineers
 - **ENGRD 2020:** Statics & Mechanics of Solids
 - **ENGRD 2210:** Thermodynamics
-- **ECON 1120:** Into to Macroeconomics
-- **PE 1104:** Swim Conditioning
+- **HADM 1810:** Intro to Management
+- **PMA 2800:** Intro to Acting
 
 
 ---
@@ -40,15 +41,15 @@ permalink: /coursework/
 - **PHYS 1112:** Physics I: Mechanics and Heat
 - **PHYS 1110:** Intro to Experimental Physics
 - **MATH 1920:** Multivariable Calculus for Engineers
-- **ENGRI 1100:** Intro to Engineering: Lasers & Photonics
-- **GOVT 1101:** FWS: The Politics of Outer Space
+- **ECON 1110:** Intro to Microeconomics
+- **CS 1110:** Intro to Computing: Design and Development
 
 **Fall 2023**
 - **CHEM 2090:** Engineering General Chemistry
 - **MATH 1910:** Calculus for Engineers
-- **CS 1110:** Intro to Computing: Design & Development
-- **CLASS 1585:** FWS: 
-- **PE 1104:** Swim Conditioning
+- **COML 1105:** FWS: Books with Big Ideas
+- **ENGRG 1270:** Intro to Entrepreneurship for Engineers
+- **PE 1429:** Vinyasa Yoga
 - **ENGRG 1050:** Engineering Seminar
 
 
